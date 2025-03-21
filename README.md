@@ -3,7 +3,6 @@
 🚀 **AI & Data Science Enthusiast**  
 🎓 **Second-year Student | Passionate about Artificial Intelligence world!**  
 
----
 
 ## 🔹 About Me  
 - 🧠 **AI Enthusiast** – I love integrating AI into real-world applications by considering simple and straightforward use cases that utilize AI to optimize various aspects of life.  
@@ -12,7 +11,7 @@
 - 🚀 **Project-Focused Mindset** – Currently leading the **Dynamic Traffic Management Using Mobile Barriers** project, applying AI to optimize road conditions dynamically.  
 - ✨ **Beyond AI** – I enjoy **learning new AI techniques**, **tinkering with automation tools**, and **exploring new technology trends**.  
 
----
+
 
 ## 💻 Tech Stack  
 A few of the tools and technologies I work with:  
@@ -21,7 +20,7 @@ A few of the tools and technologies I work with:
 **Visualization & Data Analysis:** Matplotlib, Seaborn, Plotly  
 **Database & Backend:** SQL, SQLite, PostgreSQL  
 
----
+
 
 ## 📂 Notable Projects  
 
@@ -30,7 +29,7 @@ A few of the tools and technologies I work with:
 | **Dynamic Traffic Management Using Mobile Barriers** | AI-driven traffic congestion prediction and dynamic median strip movement to optimize road usage. | Computer Vision, Deep Learning, LSTM, Python, OpenCV, TensorFlow | Research & Development |
 | **Hand Gesture Flight Control for Microsoft Flight Simulator** | Use a laptop webcam and deep learning to track hand movements for flight control. | Python, OpenCV, TensorFlow, MediaPipe | Prototype Stage |
 
----
+
 
 ## 📊 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hei1sme&theme=dark&hide_border=false) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hei1sme&theme=dark&hide_border=false&include_all_commits=true&count_private=true)    
@@ -41,7 +40,7 @@ A few of the tools and technologies I work with:
 
 [![](https://visitcount.itsvg.in/api?id=hei1sme&icon=0&color=13)](https://visitcount.itsvg.in)  
 
----
+
 
 ## 🔹 Connect with Me  
 
