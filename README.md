@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! I'm Lê Nguyên Gia Hưng (hei) 👋
+# Hi there! I'm Le Nguyen Gia Hung (hei) 👋
 
 ### A Second-Year Student Passionate about AI & Data Science
 
