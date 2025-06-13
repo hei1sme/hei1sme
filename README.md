@@ -106,8 +106,3 @@ I'm a second-year student deeply fascinated by the world of Artificial Intellige
   
 **Feel free to connect, collaborate, or just say hi!** <br/>
 **Always open to new opportunities and discussions.**
-
----
-![](https://visitcount.itsvg.in/api?id=hei1sme&icon=0&color=13)
-
-</div>
