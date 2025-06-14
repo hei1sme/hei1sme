@@ -2,7 +2,7 @@
 
 # Hi there! I'm Le Nguyen Gia Hung (hei) 👋
 
-### A Second-Year Student Passionate about AI & Data Science
+### A Second-Year Student, AI Researcher, and Founder
 
 I'm an AI enthusiast focused on building practical, data-driven solutions for real-world challenges. <br/>
 Always learning, always building.
@@ -13,7 +13,9 @@ Always learning, always building.
 
 ### 🎯 About Me
 
-I'm a second-year student deeply fascinated by the world of Artificial Intelligence and Data Science. My goal is to apply these technologies to solve tangible problems, from optimizing everyday processes to tackling complex challenges. I am currently leading a research project on **Dynamic Traffic Management** and am always eager to explore new techniques and collaborate on innovative projects. Beyond the code, I enjoy tinkering with automation tools and exploring emerging technology trends.
+I'm a second-year student deeply fascinated by the world of Artificial Intelligence and Data Science. To transform this passion into impactful projects, I co-founded [**SpeedyLabX**](https://github.com/SpeedyLabX), a university research group dedicated to solving complex problems with AI.
+
+As a **Founder and Researcher**, I am currently leading our primary research initiative: **"Proactive Air Quality Forecasting and Health Alert System for Melbourne."** This role allows me to apply my skills in Deep Learning and time-series analysis to a critical environmental challenge. I am always eager to explore new techniques and collaborate on innovative projects.
 
 ---
 
@@ -66,10 +68,11 @@ I'm a second-year student deeply fascinated by the world of Artificial Intellige
 
 ### 🚀 Notable Projects
 
-| Project                                                 | Description                                                                                          | Tech Used                                                | Status                |
-| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------- |
-| **Dynamic Traffic Management Using Mobile Barriers**    | AI-driven traffic congestion prediction and dynamic median strip movement to optimize road usage.      | Computer Vision, Deep Learning, LSTM, Python, TensorFlow | Research & Development |
-| **Hand Gesture Flight Control for MSFS**                | Use a laptop webcam and deep learning to track hand movements for flight control in a flight simulator. | Python, OpenCV, MediaPipe, TensorFlow                    | Prototype Stage       |
+| Project                                                                                                         | Description                                                                                          | Tech Used                                                | Status                |
+| --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------- |
+| **[Proactive Air Quality Forecasting... (Lead)](https://github.com/SpeedyLabX/melbourne-air-quality-forecast)**  | Leading a research project at SpeedyLabX to predict air quality and provide health alerts in Melbourne. | Python, Deep Learning, Time-Series Analysis, TensorFlow  | Research & Development |
+| **Dynamic Traffic Management Using Mobile Barriers**                                                            | AI-driven traffic congestion prediction and dynamic median strip movement to optimize road usage.    | Computer Vision, Deep Learning, LSTM, Python, TensorFlow | Research & Development |
+| **Hand Gesture Flight Control for MSFS**                                                                        | Use a laptop webcam and deep learning to track hand movements for flight control in a flight simulator.| Python, OpenCV, MediaPipe, TensorFlow                    | Prototype Stage       |
 
 ---
 
@@ -106,3 +109,5 @@ I'm a second-year student deeply fascinated by the world of Artificial Intellige
   
 **Feel free to connect, collaborate, or just say hi!** <br/>
 **Always open to new opportunities and discussions.**
+
+</div>
