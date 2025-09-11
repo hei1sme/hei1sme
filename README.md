@@ -1,92 +1,94 @@
 <div align="center">
 
-# Hi there! I'm Le Nguyen Gia Hung (hei) 👋
+# 👋 Hi, I'm Le Nguyen Gia Hung (hei)
 
-### A Second-Year AI Major, Researcher, and Founder
+### 🎓 Second-Year AI Major | 🔬 Researcher | 🚀 Founder of SpeedyLabX  
 
-I'm an AI enthusiast focused on building practical, data-driven solutions for real-world challenges. <br/>
-Always learning, always building.
+Passionate about leveraging **Artificial Intelligence** to build practical, data-driven solutions for real-world challenges.  
+Always learning. Always building.
 
 </div>
 
 ---
 
-### 🎯 About Me
+## 🎯 About Me
 
-I'm a second-year **AI Major at FPT University**, deeply fascinated by the world of Artificial Intelligence. To transform this passion into impactful projects, I co-founded [**SpeedyLabX**](https://github.com/SpeedyLabX), a student-led research group at FPT University dedicated to solving complex problems with AI.
+I am a second-year **AI Major at FPT University**, with a deep passion for **Artificial Intelligence** and its potential to address critical global issues.  
 
-As a **Founder and Lead Researcher**, I am currently spearheading our primary research initiative: **"Proactive Air Quality Forecasting and Health Alert System for Melbourne."** This project is not just a technical challenge; it's our ambitious goal for a submission to the **AJCAI 2025 (Australasian Joint Conference on Artificial Intelligence)**. This role allows me to apply my skills in Deep Learning and time-series analysis to a critical environmental challenge while navigating the rigors of academic research.
+To transform this passion into impactful work, I co-founded [**SpeedyLabX**](https://github.com/SpeedyLabX) — a student-led research group dedicated to solving complex problems through innovative applications of AI.  
 
----
+As **Founder & Lead Researcher**, I am currently spearheading our flagship initiative:  
 
-### 🛠️ Tech Stack & Tools
+**Proactive Air Quality Forecasting and Health Alert System for Melbourne**  
+📌 An interdisciplinary project combining **Deep Learning**, **time-series analysis**, and **XAI**.  
+🎯 Goal: Submission to **AJCAI 2025** (Australasian Joint Conference on Artificial Intelligence).  
 
-*   **Languages & Databases:**
-    <p align="center">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
-    </p>
-*   **AI/ML Frameworks & Data Science:**
-    <p align="center">
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/></a>
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/></a>
-      <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/></a>
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/></a>
-      <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-    </p>
-*   **Visualization & Computer Vision:**
-    <p align="center">
-      <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
-      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/></a>
-       <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/></a>
-    </p>
+This journey not only challenges me technically but also equips me with experience in **academic research, leadership, and interdisciplinary collaboration**.
 
 ---
 
-### 🚀 Notable Projects
+## 🛠️ Technical Skills
 
-| Project                                     | Description                                                                                             | Tech Used                                                | Demo / Link                                                                                              |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **Proactive Air Quality Forecasting** (Lead)  | Leading research at SpeedyLabX to predict air quality, with the goal of submission to the **AJCAI 2025** conference. | Python, Deep Learning, TensorFlow, XAI                   | [**View Research at SpeedyLabX**](https://github.com/SpeedyLabX/melbourne-air-quality-forecast)           |
-| **Dynamic Traffic Management**                | AI-driven traffic congestion prediction and dynamic median strip movement to optimize road usage.       | Computer Vision, LSTM, Python, TensorFlow                | `Concept Stage`                                                                                          |
-| **Hand Gesture Flight Control**               | Use a webcam and deep learning to control a flight simulator with hand movements.                         | Python, OpenCV, MediaPipe, TensorFlow                    | **[▶️ WATCH DEMO (GIF/Video)]** <!-- REPLACE THIS WITH A LINK TO YOUR DEMO -->                             |
+**Languages & Databases**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+**AI/ML Frameworks & Data Science**  
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+**Visualization & Computer Vision**  
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
 ---
 
-### 📊 My GitHub Stats
+## 🚀 Selected Projects
+
+| Project | Description | Tech Stack | Status / Link |
+| ------- | ----------- | ---------- | ------------- |
+| **Proactive Air Quality Forecasting** *(Lead)* | Research at SpeedyLabX to predict air quality, aimed at **AJCAI 2025** submission. | Python, Deep Learning, TensorFlow, XAI | [🔗 View Research](https://github.com/SpeedyLabX/melbourne-air-quality-forecast) |
+| **Dynamic Traffic Management** | AI-driven system to forecast congestion and optimize road usage via dynamic median strip control. | Computer Vision, LSTM, Python, TensorFlow | 🟡 Concept Stage |
+| **Hand Gesture Flight Control** | Deep learning with webcam input to control a flight simulator using hand movements. | Python, OpenCV, MediaPipe, TensorFlow | 🎥 [Demo Pending] |
+
+---
+
+## 📊 GitHub Insights
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hei1sme&theme=dark&hide_border=false)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hei1sme&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hei1sme&theme=dark&hide_border=false&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hei1sme&theme=dark&hide_border=false)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hei1sme&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hei1sme&theme=dark&hide_border=false&layout=compact)  
 
 </div>
 
 ---
 
-### 📬 Connect with Me
+## 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:heiontheway@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/le-nguyen-gia-hung" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/25495769" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stack Overflow"/>
-  </a>
-  <a href="https://youtube.com/@hei_isme" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-  </a>
+  <a href="mailto:heiontheway@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/le-nguyen-gia-hung"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/25495769"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  <a href="https://youtube.com/@hei_isme"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 </p>
 
 <div align="center">
-  
-**Feel free to connect, collaborate, or just say hi!** <br/>
-**Always open to new opportunities and discussions.**
+
+✨ Always open to collaboration, research opportunities, and meaningful discussions.  
+Let’s connect and build something impactful together!
 
 </div>
