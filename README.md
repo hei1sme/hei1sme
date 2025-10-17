@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Le Nguyen Gia Hung (hei)
 
-### 🎓 Second-Year AI Major | 🔬 Researcher | 🚀 Founder of SpeedyLabX  
+### 🎓 AI Major at FPT University | 🔬 Researcher | 🚀 Founder of SpeedyLabX  
 
-Passionate about leveraging **Artificial Intelligence** to build practical, data-driven solutions for real-world challenges.  
+Passionate about leveraging **Artificial Intelligence** to build transparent, data-driven systems that make a tangible social impact.  
 Always learning. Always building.
 
 </div>
@@ -13,17 +13,27 @@ Always learning. Always building.
 
 ## 🎯 About Me
 
-I am a second-year **AI Major at FPT University**, with a deep passion for **Artificial Intelligence** and its potential to address critical global issues.  
+I’m a second-year **Artificial Intelligence major at FPT University**, with deep interest in **applied AI research**, **data-centric modeling**, and **explainable systems**.  
 
-To transform this passion into impactful work, I co-founded [**SpeedyLabX**](https://github.com/SpeedyLabX) — a student-led research group dedicated to solving complex problems through innovative applications of AI.  
+Driven by curiosity and a desire for academic excellence, I co-founded [**SpeedyLabX**](https://github.com/SpeedyLabX) — a student-led research group dedicated to bridging the gap between **academic AI theory** and **real-world impact**.  
 
-As **Founder & Lead Researcher**, I am currently spearheading our flagship initiative:  
+As **Founder & Lead Researcher**, I currently lead the following flagship project:
 
-**Proactive Air Quality Forecasting and Health Alert System for Melbourne**  
-📌 An interdisciplinary project combining **Deep Learning**, **time-series analysis**, and **XAI**.  
-🎯 Goal: Submission to **AJCAI 2025** (Australasian Joint Conference on Artificial Intelligence).  
+### 🧠 Proactive Air Quality Forecasting and Health Alert System for Melbourne  
+📍 A multimodal system for **air quality prediction** and **proactive health warnings**, integrating satellite, environmental, and social data through Deep Learning and **Explainable AI (XAI)**.  
+🏆 **Accepted Paper at the Australasian Joint Conference on Artificial Intelligence (AJCAI 2025)**  
+🔗 [**View Project Repository**](https://github.com/SpeedyLabX/melbourne-air-quality-forecast)  
 
-This journey not only challenges me technically but also equips me with experience in **academic research, leadership, and interdisciplinary collaboration**.
+This marks **SpeedyLabX’s first international academic publication**, demonstrating our group’s growing capability in producing research aligned with professional AI standards.
+
+---
+
+## 🧩 Current Focus
+
+- 🧠 **Multimodal Learning** — integrating acoustic, textual, and environmental data for richer representations.  
+- 🌐 **Explainable AI (XAI)** — applying SHAP, LIME, and Integrated Gradients for model interpretability.  
+- 📊 **Research for Publication** — targeting top-tier AI conferences (IJCAI, AAAI, ACL).  
+- 🧪 **Technical Leadership** — mentoring peers and maintaining project infrastructure for SpeedyLabX.  
 
 ---
 
@@ -55,13 +65,23 @@ This journey not only challenges me technically but also equips me with experien
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Selected Research & Projects
 
 | Project | Description | Tech Stack | Status / Link |
 | ------- | ----------- | ---------- | ------------- |
-| **Proactive Air Quality Forecasting** *(Lead)* | Research at SpeedyLabX to predict air quality, aimed at **AJCAI 2025** submission. | Python, Deep Learning, TensorFlow, XAI | [🔗 View Research](https://github.com/SpeedyLabX/melbourne-air-quality-forecast) |
-| **Dynamic Traffic Management** | AI-driven system to forecast congestion and optimize road usage via dynamic median strip control. | Computer Vision, LSTM, Python, TensorFlow | 🟡 Concept Stage |
-| **Hand Gesture Flight Control** | Deep learning with webcam input to control a flight simulator using hand movements. | Python, OpenCV, MediaPipe, TensorFlow | 🎥 [Demo Pending] |
+| **Proactive Air Quality Forecasting (AJCAI 2025)** *(Lead)* | Research paper officially accepted at **AJCAI 2025**, predicting Melbourne's air quality using multimodal and explainable AI. | Python, TensorFlow, XGBoost, SHAP | ✅ [View Research](https://github.com/SpeedyLabX/melbourne-air-quality-forecast) |
+| **Multimodal Speech Emotion Recognition** | Conformer–GAT fusion model integrating text and audio with XAI-based interpretability. | PyTorch, Transformers, SHAP, WavLM | 🧪 [View Repo](https://github.com/SpeedyLabX/ser-conformer-gat-xai) |
+| **Dynamic Traffic Management** | AI system predicting congestion and controlling road flow with dynamic median strip planning. | Computer Vision, LSTM, TensorFlow | 🟡 Concept Stage |
+| **Hand Gesture Flight Control** | Deep Learning system using webcam input to control a flight simulator by hand movement. | OpenCV, MediaPipe, TensorFlow | 🎥 [Demo Pending] |
+
+---
+
+## 🏆 Highlights & Achievements
+
+- 🥇 **Accepted Paper – AJCAI 2025**, Melbourne, Australia  
+- 🧭 **Founder & Lead Researcher**, SpeedyLabX Research Group  
+- 🧠 **Academic Focus:** Explainable AI, Multimodal Fusion, Applied Deep Learning  
+- 💬 **Speaker (Internal Seminars):** *Bridging Academic AI and Real-World Application*  
 
 ---
 
@@ -89,6 +109,6 @@ This journey not only challenges me technically but also equips me with experien
 <div align="center">
 
 ✨ Always open to collaboration, research opportunities, and meaningful discussions.  
-Let’s connect and build something impactful together!
+Let’s connect — and build something impactful together.
 
 </div>
