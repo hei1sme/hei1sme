@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Header Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Hello,%20I'm%20Gia-Hung%20(Hei)&fontSize=70&fontColor=ffffff&fontAlignY=40" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Hello,%20I'm%20Le%20Nguyen%20Gia%20Hung%20(hei)&fontSize=50&fontColor=ffffff&fontAlignY=40" alt="Header" />
 
   ### 🎓 AI Researcher | 🔬 Founder of SpeedyLabX | 🚀 Full-Stack Engineer
 
@@ -27,6 +27,8 @@
 ### 🧐 About Me
 
 I am a second-year **Artificial Intelligence major** at **FPT University** (GPA: 8.0/10.0) and the Founder of **[SpeedyLabX](https://github.com/SpeedyLabX)**, a student-led research lab bridging academic theory with real-world application.
+
+📝 **Note:** I publish research under the international name **Gia-Hung Nguyen Le**.
 
 My work lies at the intersection of **Deep Learning**, **Time-Series Forecasting**, and **Explainable AI (XAI)**. I don't just train models; I build end-to-end systems that are interpretable and deployable.
 
