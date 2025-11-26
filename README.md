@@ -44,7 +44,7 @@ My work lies at the intersection of **Deep Learning**, **Time-Series Forecasting
 | :--- | :--- | :--- | :--- |
 | **[SmokeNet: Air Quality Forecasting](https://link.springer.com/chapter/10.1007/978-981-95-4969-6_34)** | **Lead Author** | Transformer, SHAP, Integrated Gradients | ✅ **Published @ AJCAI 2025 (Springer)**<br>Reduced MAE by 35.9% vs XGBoost. |
 | **[End-to-End Vietnamese ASR](https://github.com/SpeedyLabX)** | **Co-Researcher** | CNN-BiLSTM (Residual), CTC Loss | 🔄 **In Progress**<br>Trained on **745 hours** of speech.<br>Achieved **15.28% CER** with only 5.4M params. |
-| **[Conformer-GAT Fusion SER](https://github.com/SpeedyLabX/ser-conformer-gat-xai)** | **Lead Researcher** | Conformer, GAT, Multimodal Fusion | 🧪 **In Progress**<br>Novel fusion of acoustic sequences and textual graphs for emotion recognition. |
+| **[Conformer-GAT Fusion SER](https://github.com/SpeedyLabX/ser-conformer-gat-xai)** | **Co-Researcher** | Conformer, GAT, Multimodal Fusion | 🧪 **In Progress**<br>Novel fusion of acoustic sequences and textual graphs for emotion recognition. |
 
 ---
 
