@@ -1,9 +1,9 @@
 <div align="center">
   
   <!-- Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Hello,%20I'm%20Le%20Nguyen%20Gia%20Hung%20(hei)&fontSize=50&fontColor=ffffff&fontAlignY=40" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Hello,%20I'm%20Le%20Nguyen%20Gia%20Hung%20(hei)&fontSize=50&fontColor=ffffff&fontAlignY=40" alt="Header" />
 
-  ### 🎓 AI Researcher | 🔬 Founder of SpeedyLabX | 🚀 Full-Stack Engineer
+  ### 🎓 AI Researcher | 🔬 Founder of SpeedyLabX
 
   *Building transparent, data-driven intelligence for social impact.*
 
@@ -32,7 +32,7 @@ I am a second-year **Artificial Intelligence major** at **FPT University** (GPA:
 
 My work lies at the intersection of **Deep Learning**, **Time-Series Forecasting**, and **Explainable AI (XAI)**. I don't just train models; I build end-to-end systems that are interpretable and deployable.
 
-* **🔭 I’m currently working on:** Multimodal fusion (Audio + Text) for Speech Emotion Recognition using Graph Attention Networks (GAT).
+* **🔭 I’m currently working on:** MERR-GAT: fusing Wav2Vec 2.0 (Audio) & RoBERTa (Text) via Graph Attention Networks for explainable emotion recognition.
 * **🌱 I’m currently learning:** RAG Agents (NVIDIA), Advanced MLOps.
 * **💬 Ask me about:** Transformer Architectures, SmokeNet, or how to lead a student research team.
 
@@ -44,7 +44,7 @@ My work lies at the intersection of **Deep Learning**, **Time-Series Forecasting
 | :--- | :--- | :--- | :--- |
 | **[SmokeNet: Air Quality Forecasting](https://link.springer.com/chapter/10.1007/978-981-95-4969-6_34)** | **Lead Author** | Transformer, SHAP, Integrated Gradients | ✅ **Published @ AJCAI 2025 (Springer)**<br>Reduced MAE by 35.9% vs XGBoost. |
 | **[End-to-End Vietnamese ASR](https://github.com/SpeedyLabX)** | **Co-Researcher** | CNN-BiLSTM (Residual), CTC Loss | 🔄 **In Progress**<br>Trained on **745 hours** of speech.<br>Achieved **15.28% CER** with only 5.4M params. |
-| **[Conformer-GAT Fusion SER](https://github.com/SpeedyLabX/ser-conformer-gat-xai)** | **Co-Researcher** | Conformer, GAT, Multimodal Fusion | 🧪 **In Progress**<br>Novel fusion of acoustic sequences and textual graphs for emotion recognition. |
+| **[MERR-GAT: Multimodal Emotion Recognition](https://github.com/SpeedyLabX/ser-conformer-gat-xai)** | **Co-Lead / Corresponding Author** | Wav2Vec 2.0, RoBERTa, GATv2 | 🧪 **In Progress**<br>Novel fusion of acoustic & textual features via Dynamic Graph Attention Networks for explainability. |
 
 ---
 
@@ -78,6 +78,19 @@ My work lies at the intersection of **Deep Learning**, **Time-Series Forecasting
 * 📜 **NVIDIA:** Building RAG Agents with LLMs
 * 📜 **IBM:** Full Stack Software Developer Professional Certificate
 * 📜 **IBM:** Data Science Fundamentals with Python and SQL
+
+---
+
+### 🔬 Research Profiles
+
+<div align="center">
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=iGODAQYAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7120-8167)
+[![Scopus](https://img.shields.io/badge/Scopus-FF8800?style=for-the-badge&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=60219530700)
+[![Web of Science](https://img.shields.io/badge/Web%20of%20Science-5E33FF?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/PCR-6096-2025)
+
+</div>
 
 ---
 
