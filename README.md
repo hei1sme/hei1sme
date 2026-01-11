@@ -103,20 +103,9 @@ class GiaHung:
 
 <div align="center">
 
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" alt="ML Stack" />
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode" alt="Tools" />
-
-</div>
-
-## 📜 Certifications
-
-<div align="center">
-
-![NVIDIA](https://img.shields.io/badge/NVIDIA-RAG_Agents_with_LLMs-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-Data_Science_Fundamentals-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-Docker_Kubernetes_OpenShift-052FAD?style=flat-square&logo=ibm&logoColor=white)
+| **Languages** | **AI / Deep Learning** | **Data & Tools** |
+| :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) <br> ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) <br> ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![W&B](https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=white) <br> ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=flat-square&logo=numpy&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
@@ -149,9 +138,6 @@ class GiaHung:
 
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
-
 <div align="center">
 
 <sub>FPT University · Ho Chi Minh City, Vietnam</sub>
@@ -159,3 +145,6 @@ class GiaHung:
 [![Visitors](https://komarev.com/ghpvc/?username=hei1sme&color=667eea&style=flat-square&label=Profile+Views)](https://github.com/hei1sme)
 
 </div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
