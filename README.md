@@ -5,99 +5,83 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/hei1sme">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+transparent%2C+data-driven+intelligence;for+social+impact+%F0%9F%8C%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=50&lines=Building+transparent%2C+data-driven+intelligence+for+social+impact" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
+<!-- Main Social Badges - Only essential ones -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hei-portfolio.vercel.app)
 [![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=iGODAQYAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/le-nguyen-gia-hung)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heiontheway@gmail.com)
-[![SpeedyLabX](https://img.shields.io/badge/SpeedyLabX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SpeedyLabX)
 
 </div>
 
-<!-- Horizontal Line with Gradient Effect -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
+
+## 👋 About Me
+
+I'm a second-year **AI major** at **FPT University** (GPA: 8.62/10.0) and Founder of **[SpeedyLabX](https://github.com/SpeedyLabX)** — a student research group bridging academic theory with real-world applications.
+
+I publish under the name **Gia-Hung Nguyen Le**. My work focuses on:
+
+- 🔮 **Time-Series Forecasting** — Transformer architectures for environmental prediction
+- 🎭 **Multimodal Learning** — Audio-text fusion via Graph Neural Networks  
+- 🔍 **Explainable AI** — SHAP, Integrated Gradients, attention-based interpretability
+
+---
 
 ## 📰 Latest
 
-<table>
-<tr>
-<td>🏆</td>
-<td><b>Published @ AJCAI 2025</b> — <i>Proactive Air Quality Forecasting</i> accepted by Springer LNAI (Q2)</td>
-</tr>
-<tr>
-<td>🔬</td>
-<td><b>In Progress</b> — MERR-GAT: Multimodal Emotion Recognition via Graph Attention Networks</td>
-</tr>
-<tr>
-<td>🎯</td>
-<td><b>Achieved</b> — 33.09% WER on Vietnamese ASR with only 5.4M parameters</td>
-</tr>
-</table>
+| | |
+|:--|:--|
+| 🏆 | **Published @ AJCAI 2025** — *Proactive Air Quality Forecasting* accepted by Springer LNAI (Q2) |
+| 🔬 | **In Progress** — MERR-GAT: Multimodal Emotion Recognition via Graph Attention Networks |
+| 🎯 | **Achieved** — 33.09% WER on Vietnamese ASR with only 5.4M parameters |
 
-## 👨‍💻 About
-
-```python
-class GiaHung:
-    def __init__(self):
-        self.name = "Gia-Hung Nguyen Le"
-        self.role = "AI Researcher & Founder"
-        self.university = "FPT University"
-        self.gpa = "8.62 / 10.0"
-        
-        self.research = {
-            "time_series": "Transformer architectures for environmental prediction",
-            "multimodal": "Audio-text fusion via Graph Neural Networks",
-            "xai": "SHAP, Integrated Gradients, attention-based interpretability"
-        }
-    
-    def currently_working_on(self):
-        return "MERR-GAT: fusing Wav2Vec 2.0 + RoBERTa via GATv2"
-```
+---
 
 ## 🔬 Research
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🌫️-SmokeNet-667eea?style=for-the-badge" alt="SmokeNet"/>
-<br/><br/>
-<b>Air Quality Forecasting</b>
-<br/>
-<sub>Published @ AJCAI 2025</sub>
-<br/><br/>
-<code>Transformer</code> <code>SHAP</code> <code>PyTorch</code>
-<br/><br/>
-<a href="https://doi.org/10.1007/978-981-95-4969-6_34">📄 Paper</a>
+
+### 🌫️ SmokeNet
+
+**Air Quality Forecasting**
+
+`Transformer` `SHAP` `PyTorch`
+
+[![Paper](https://img.shields.io/badge/Springer-Published-success?style=flat-square)](https://doi.org/10.1007/978-981-95-4969-6_34)
+
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎭-MERR--GAT-764ba2?style=for-the-badge" alt="MERR-GAT"/>
-<br/><br/>
-<b>Emotion Recognition</b>
-<br/>
-<sub>In Progress</sub>
-<br/><br/>
-<code>Wav2Vec2</code> <code>RoBERTa</code> <code>GATv2</code>
-<br/><br/>
-<a href="https://github.com/SpeedyLabX/ser-conformer-gat-xai">🔗 Repo</a>
+
+### 🎭 MERR-GAT
+
+**Emotion Recognition**
+
+`Wav2Vec2` `RoBERTa` `GATv2`
+
+[![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square)](https://github.com/SpeedyLabX/ser-conformer-gat-xai)
+
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎤-Vietnamese_ASR-00d4aa?style=for-the-badge" alt="ASR"/>
-<br/><br/>
-<b>Speech Recognition</b>
-<br/>
-<sub>15.28% CER achieved</sub>
-<br/><br/>
-<code>CNN-BiLSTM</code> <code>CTC</code> <code>745h data</code>
-<br/><br/>
-<a href="https://github.com/SpeedyLabX">🔗 SpeedyLabX</a>
+
+### 🎤 Vietnamese ASR
+
+**Speech Recognition**
+
+`CNN-BiLSTM` `CTC` `745h`
+
+[![CER](https://img.shields.io/badge/CER-15.28%25-blue?style=flat-square)](https://github.com/SpeedyLabX)
+
 </td>
 </tr>
 </table>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -109,22 +93,14 @@ class GiaHung:
 
 </div>
 
-## 🔗 Research Profiles
-
-<div align="center">
-
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7120-8167)
-[![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=60219530700)
-[![WoS](https://img.shields.io/badge/Web_of_Science-5856D6?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/PCR-6096-2025)
-
-</div>
+---
 
 ## 📊 Stats
 
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=hei1sme&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=hei1sme&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" /> -->
 
 <br/>
 
@@ -138,9 +114,23 @@ class GiaHung:
 
 </div>
 
+---
+
+<!-- Footer Section -->
 <div align="center">
 
-<sub>FPT University · Ho Chi Minh City, Vietnam</sub>
+<sub>**FPT University** · Ho Chi Minh City, Vietnam</sub>
+
+<br/><br/>
+
+<!-- Research & Social Profiles - Footer Style -->
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:heiontheway@gmail.com)
+[![SpeedyLabX](https://img.shields.io/badge/SpeedyLabX-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SpeedyLabX)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7120-8167)
+[![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=flat-square&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=60219530700)
+[![WoS](https://img.shields.io/badge/WoS-5856D6?style=flat-square&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/PCR-6096-2025)
+
+<br/>
 
 [![Visitors](https://komarev.com/ghpvc/?username=hei1sme&color=667eea&style=flat-square&label=Profile+Views)](https://github.com/hei1sme)
 
