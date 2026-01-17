@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-I'm a second-year **AI major** at **FPT University** (GPA: 8.62/10.0) and Founder of **[SpeedyLabX](https://github.com/SpeedyLabX)** — a student research group bridging academic theory with real-world applications.
+I'm a third-year **AI major** at **FPT University** (GPA: 8.62/10.0) and Founder of **[SpeedyLabX](https://github.com/SpeedyLabX)** — a student research group bridging academic theory with real-world applications.
 
 I publish under the name **Gia-Hung Nguyen Le**. My work focuses on:
 
