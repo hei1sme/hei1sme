@@ -15,49 +15,27 @@
 
 ```diff
 @@ Third-year AI Student @ FPT University | GPA: 8.62/10.0 @@
-+ Published researcher in Springer LNAI (Q2)
-+ Founder of SpeedyLabX research group
++ Published Researcher in Springer LNAI (Q2)
++ Founder of SpeedyLabX Research Group
+! Seeking Research Internships & Collaboration Opportunities
 ```
 
 </div>
 
 <br/>
 
-## 🎯 What I Do
-
-<table>
-<tr>
-<td width="50%">
+## 👋 About Me
 
 ```yaml
-research_focus: 
-  - Time-Series Forecasting 📈
-    • Transformer architectures
-    • Environmental prediction
-    
-  - Multimodal Learning 🎭
-    • Audio-text fusion
-    • Graph Neural Networks
-    
-  - Explainable AI 🔍
-    • SHAP interpretability
-    • Attention mechanisms
+focus: "Building transparent, interpretable AI systems"
+specialization:
+  - Explainable AI (SHAP, Attention Mechanisms)
+  - Multimodal Learning (Audio-Text-Vision)
+  - Time-Series Forecasting (Transformers)
+  - Speech Processing (Low-Resource ASR)
 ```
 
-</td>
-<td width="50%">
-
-```yaml
-current_status:
-  ✅ Published:  AJCAI 2025
-  🔬 In Progress:  MERR-GAT
-  🎯 Achieved: 33.09% WER on Vietnamese ASR
-  🏗️ Building: Transparent AI systems
-```
-
-</td>
-</tr>
-</table>
+I'm an AI researcher passionate about making machine learning models more interpretable and trustworthy. As founder of **SpeedyLabX**, I lead a team of 10 undergraduate researchers exploring cutting-edge problems in explainability, multimodal fusion, and speech systems.
 
 <br/>
 
@@ -65,7 +43,6 @@ current_status:
 
 <div align="center">
 
-<!-- Project Cards -->
 <table>
 <tr>
 <td align="center" width="33%">
@@ -73,14 +50,24 @@ current_status:
 
 ### **SmokeNet**
 
-Air Quality Forecasting
+**Air Quality Forecasting**
 
-`Transformer` • `SHAP` • `PyTorch`
+```python
+metrics = {
+  "MAE": 0.7470,
+  "R²": 0.9545,
+  "improvement": "35.9% vs XGBoost"
+}
+```
 
-[![Paper](https://img.shields.io/badge/Springer-AJCAI_2025-success?style=flat-square&logo=springer)](https://doi.org/10.1007/978-981-95-4969-6_34)
-[![Q2](https://img.shields.io/badge/Journal-Q2-blue?style=flat-square)](https://doi.org/10.1007/978-981-95-4969-6_34)
+Transformer-based system with SHAP explainability for public health warnings
 
-**Published in LNAI**
+`PyTorch` `Transformer` `SHAP` `XAI`
+
+[![Paper](https://img.shields.io/badge/DOI-10.1007/978--981--95--4969--6__34-blue?style=flat-square&logo=doi)](https://doi.org/10.1007/978-981-95-4969-6_34)
+[![Q2](https://img.shields.io/badge/Springer-LNAI_Q2-success?style=flat-square)](https://doi.org/10.1007/978-981-95-4969-6_34)
+
+**AJCAI 2025** • *First Author*
 
 </td>
 <td align="center" width="33%">
@@ -88,35 +75,135 @@ Air Quality Forecasting
 
 ### **MERR-GAT**
 
-Emotion Recognition
+**Emotion Recognition**
 
-`Wav2Vec2` • `RoBERTa` • `GATv2`
+```python
+architecture = {
+  "audio": "Wav2Vec2",
+  "text": "RoBERTa",
+  "fusion": "GATv2"
+}
+```
 
-[![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square)](https://github.com/SpeedyLabX/ser-conformer-gat-xai)
+Graph-based multimodal fusion with intrinsic attention explainability
+
+`Wav2Vec2` `RoBERTa` `GATv2` `XAI`
+
+[![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square)](https://github.com/SpeedyLabX)
 [![Code](https://img.shields.io/badge/GitHub-SpeedyLabX-181717?style=flat-square&logo=github)](https://github.com/SpeedyLabX)
 
-**Audio-Text Fusion**
+**IEMOCAP • RAVDESS • MELD**
 
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/clouds/100/000000/microphone.png" width="80"/>
 
-### **VN-ASR**
+### **Vietnamese ASR**
 
-Speech Recognition
+**Speech Recognition**
 
-`CNN-BiLSTM` • `CTC` • `745h`
+```python
+model = {
+  "params": "5.4M",
+  "data": "745 hours",
+  "WER": "33.09%",
+  "CER": "15.28%"
+}
+```
+
+Parameter-efficient CNN-BiLSTM with CTC for Vietnamese speech
+
+`CNN` `BiLSTM` `CTC` `ASR`
 
 [![WER](https://img.shields.io/badge/WER-33.09%25-informational?style=flat-square)](https://github.com/SpeedyLabX)
 [![CER](https://img.shields.io/badge/CER-15.28%25-informational?style=flat-square)](https://github.com/SpeedyLabX)
 
-**5.4M Parameters**
+**Competitive vs Foundation Models**
 
 </td>
 </tr>
 </table>
 
 </div>
+
+<br/>
+
+## 📝 Publications
+
+```bibtex
+@inproceedings{le2025smokenet,
+  title     = {Proactive Air Quality Forecasting and Health Alert System for Melbourne},
+  author    = {Gia-Hung Nguyen Le and others},
+  booktitle = {AI 2025: Advances in Artificial Intelligence},
+  series    = {Lecture Notes in Artificial Intelligence (LNAI)},
+  publisher = {Springer Nature Singapore},
+  year      = {2025},
+  note      = {Q2 (SJR 2024)}
+}
+```
+
+**[📄 Full Paper](https://doi.org/10.1007/978-981-95-4969-6_34)** • *First Author & Corresponding Author*
+
+<br/>
+
+## 🎯 Research & Skills
+
+<table>
+<tr>
+<td width="50%">
+
+```yaml
+research_focus:
+  time_series:
+    - Transformer architectures
+    - Environmental prediction
+    - Chronological cross-validation
+    
+  multimodal_learning:
+    - Audio-text fusion
+    - Graph Neural Networks
+    - Conversational AI
+    
+  explainable_ai:
+    - SHAP interpretability
+    - Attention mechanisms
+    - Integrated Gradients
+    
+  speech_processing:
+    - End-to-end ASR
+    - Low-resource languages
+    - CTC optimization
+```
+
+</td>
+<td width="50%">
+
+```yaml
+technical_stack:
+  languages:
+    - Python
+    - SQL (PostgreSQL)
+  
+  frameworks:
+    deep_learning: [PyTorch, TensorFlow, Keras]
+    ml_tools: [Scikit-learn, Hugging Face, OpenCV]
+    
+  mlops:
+    - Docker
+    - Weights & Biases
+    - Git
+    - Linux
+    - Streamlit
+    
+  data_science:
+    - Pandas
+    - NumPy
+    - Matplotlib
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -136,7 +223,7 @@ Speech Recognition
 </td>
 <td align="center" width="25%">
 
-**AI Frameworks**
+**Deep Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -144,7 +231,7 @@ Speech Recognition
 </td>
 <td align="center" width="25%">
 
-**ML Tools**
+**ML Ecosystem**
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -152,10 +239,10 @@ Speech Recognition
 </td>
 <td align="center" width="25%">
 
-**DevOps**
+**MLOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
 </td>
 </tr>
@@ -165,7 +252,7 @@ Speech Recognition
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -180,18 +267,45 @@ Speech Recognition
 
 <br/>
 
-## 🌟 Achievements
+## 🏆 Achievements & Leadership
 
 <div align="center">
 
-| 🏆 Achievement | 📅 Date | 🔗 Link |
-|:---------------|:--------|:--------|
-| **Published in Springer LNAI** | AJCAI 2025 | [View Paper](https://doi.org/10.1007/978-981-95-4969-6_34) |
-| **Founded SpeedyLabX** | 2024 | [Visit Org](https://github.com/SpeedyLabX) |
-| **Vietnamese ASR System** | 2024 | 33.09% WER Achievement |
-| **GPA 8.62/10.0** | Current | FPT University |
+| 🎯 Achievement | 📅 Year | 🔗 Details |
+|:---------------|:--------|:-----------|
+| **Published in Springer LNAI** | 2025 | First-author paper at AJCAI (Q2) |
+| **Founded SpeedyLabX** | 2024 | Research group of 10+ undergraduates |
+| **Certificate of Merit** | 2024-25 | Honorable Student (Semesters 3, 4, 5) |
+| **Vietnamese ASR Breakthrough** | 2025 | 33.09% WER on 745-hour corpus |
+| **IBM Data Science Certifications** | 2024 | Professional Certificate track |
 
 </div>
+
+<br/>
+
+## 👥 SpeedyLabX Leadership
+
+```typescript
+const speedyLabX = {
+  role: "Founder & Student Lead",
+  established: 2025,
+  team_size: "10+ undergraduate researchers",
+  
+  activities: [
+    "Weekly technical workshops and paper reading groups",
+    "End-to-end publication workflow management",
+    "Mentoring on deep learning & research methodology",
+    "Successfully guided first AJCAI-accepted paper"
+  ],
+  
+  focus_areas: [
+    "Explainable AI",
+    "Multimodal Learning", 
+    "Speech & NLP",
+    "Time-Series Forecasting"
+  ]
+}
+```
 
 <br/>
 
@@ -199,18 +313,32 @@ Speech Recognition
 
 <div align="center">
 
-### 📫 Let's Connect! 
+### 💼 Open to Opportunities
+
+```diff
+! Actively seeking Research Internships & Collaborations in:
++ Explainable AI & Interpretable Machine Learning
++ Multimodal Learning (Audio-Visual-Text)
++ Speech & Natural Language Processing
++ Time-Series Forecasting & Graph Neural Networks
+```
+
+<br/>
+
+### 📫 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-heiontheway@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heiontheway@gmail.com)
 [![SpeedyLabX](https://img.shields.io/badge/SpeedyLabX-Research_Group-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SpeedyLabX)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Technical_Writing-667eea?style=for-the-badge)](https://hei-portfolio.vercel.app)
 
 <br/>
 
 **Academic Profiles**
 
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7120-8167)
-[![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=flat-square&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=60219530700)
-[![Web of Science](https://img.shields.io/badge/Web_of_Science-5856D6?style=flat-square&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/PCR-6096-2025)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--7120--8167-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7120-8167)
+[![Google Scholar](https://img.shields.io/badge/Scholar-iGODAQYAAAAJ-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=iGODAQYAAAAJ)
+[![Scopus](https://img.shields.io/badge/Scopus-60219530700-E9711C?style=flat-square&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=60219530700)
+[![Web of Science](https://img.shields.io/badge/ResearcherID-PCR--6096--2025-5856D6?style=flat-square)](https://www.webofscience.com/wos/author/record/PCR-6096-2025)
 
 <br/>
 
